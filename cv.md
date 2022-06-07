@@ -1,4 +1,4 @@
-<h1>Nikita Dyshkant</h1><hr>
+<h1>Nikita Dyshkant</h1>
 <h2>Contacts</h2>
 <hr>
 <b>Email</b>: nikitadyshkant@gmail.com
